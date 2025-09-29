@@ -1,0 +1,3 @@
+Este é o exemplo de um ficheiro de texto file3
+Eu gosto muito do Git
+O Git é fixe
