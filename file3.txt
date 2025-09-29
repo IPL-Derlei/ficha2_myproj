@@ -1,3 +1,7 @@
 Este é o exemplo de um ficheiro de texto file3
-Eu gosto muito do Git
-O Git é fixe
+<h2>Comidas</h2>
+<ul>
+    <li>Bolos</li>
+    <li>Tostas</li>
+    <li>Sandes</li>
+</ul>
